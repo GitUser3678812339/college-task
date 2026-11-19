@@ -1,0 +1,11 @@
+kakao = []
+kakao_len = len(kakao)
+print(kakao_len)
+kakao.append("Friend1")
+kakao.append("Friend2")
+kakao.append("Friend3")
+print(kakao)
+kakao_len = len(kakao)
+print(kakao_len)
+print(kakao[0])
+print(kakao[kakao_len - 1 ])
